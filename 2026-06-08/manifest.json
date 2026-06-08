@@ -1,7 +1,7 @@
 {
   "bucket": "brk-tasty-production-ledger",
   "gap_days": 0,
-  "generated_at": "2026-06-08T14:06:43.169831+00:00",
+  "generated_at": "2026-06-08T23:30:31.818003+00:00",
   "prefixes": [
     "brk-tasty/ledger/",
     "brk-tasty/reconciled/"
