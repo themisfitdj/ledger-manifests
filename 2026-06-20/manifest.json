@@ -1,0 +1,173 @@
+{
+  "bucket": "brk-tasty-production-ledger",
+  "gap_days": 0,
+  "generated_at": "2026-06-20T23:30:31.793321+00:00",
+  "prefixes": [
+    "brk-tasty/ledger/",
+    "brk-tasty/reconciled/"
+  ],
+  "prior_manifest_sha256": "269e33e2d47e4047de71c69f035289c021e71be60609c9755bb8638073843003",
+  "records": [
+    {
+      "key": "brk-tasty/ledger/2026-06-02/2026-06-02T22:59:49.714066Z.json",
+      "last_modified": "2026-06-02T22:59:50+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-02T22:59:49.803000+00:00",
+      "sha256": "c49c1016f9f43bfe1ade1c61203ef1cb302bf01b4bf09c33c8ecd624235c7b2b",
+      "size": 673
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-03/2026-06-03T13:30:23.321779Z.json",
+      "last_modified": "2026-06-03T13:30:24+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-03T13:30:23.401000+00:00",
+      "sha256": "9b9919b03dd2975ac64b97ec8f53f1991a93095a3fe9b884f87d86a8431c2ee2",
+      "size": 671
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-04/2026-06-04T13:30:19.747357Z.json",
+      "last_modified": "2026-06-04T13:30:20+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-04T13:30:19.867000+00:00",
+      "sha256": "197eb1106b25355d5b088ddc35e4184790de461f8174be6772e7ccdb544d313c",
+      "size": 671
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-05/2026-06-05T13:30:29.748438Z.json",
+      "last_modified": "2026-06-05T13:30:30+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-05T13:30:29.833000+00:00",
+      "sha256": "8bfb52952db7008c615a46f01ce1e358d7dcfa3caed2693e653fc766008c20ce",
+      "size": 496
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-08/2026-06-08T13:30:19.097441Z.json",
+      "last_modified": "2026-06-08T13:30:20+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-08T13:30:19.187000+00:00",
+      "sha256": "45291b7500273c6554ee4e11f04eae21df469d52f0788ebd4ac4171dcd3be595",
+      "size": 496
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-09/2026-06-09T13:30:19.736889Z.json",
+      "last_modified": "2026-06-09T13:30:20+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-09T13:30:19.820000+00:00",
+      "sha256": "45f28d34f728af6f34e7034b1904cc9db91eab1a4914bd0bfb7b75e71a9e6de0",
+      "size": 562
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-10/2026-06-10T13:30:46.005283Z.json",
+      "last_modified": "2026-06-10T13:30:47+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-10T13:30:46.096000+00:00",
+      "sha256": "8e51553162c693cfd756510e1fc35860c651436a9ffddfd640c1eee2526cce25",
+      "size": 3002
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-11/2026-06-11T13:30:19.800755Z.json",
+      "last_modified": "2026-06-11T13:30:20+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-11T13:30:19.930000+00:00",
+      "sha256": "1ea987f5d9ba6ebea027d4eb09729043c4a502c3103b17d7a239e875f4b27345",
+      "size": 475
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-12/2026-06-12T13:30:19.990643Z.json",
+      "last_modified": "2026-06-12T13:30:21+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-12T13:30:20.097000+00:00",
+      "sha256": "e40551bc278ef16ccd0f22b8aa5b05a47df36a61659160bad8da9bea63492912",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-15/2026-06-15T13:30:18.555421Z.json",
+      "last_modified": "2026-06-15T13:30:19+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-15T13:30:18.860000+00:00",
+      "sha256": "a34829b9c657cf6d3302fe9552f18fa4f82e6ccde222dc63478394a4648ddcaa",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-15/2026-06-15T15:00:54.431966Z.json",
+      "last_modified": "2026-06-15T15:00:55+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-15T15:00:54.781000+00:00",
+      "sha256": "1ebdf6afee22b4c37e8025df5b9263a18077864b3ad1163cac37066de18b0c09",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-15/2026-06-15T19:09:09.859571Z.json",
+      "last_modified": "2026-06-15T19:09:11+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-15T19:09:10.178000+00:00",
+      "sha256": "c5d0791ecad461de237d73750b8487038dccd3b18daebcd04065f47409d38282",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-15/2026-06-15T19:11:41.799599Z.json",
+      "last_modified": "2026-06-15T19:11:43+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-15T19:11:42.090000+00:00",
+      "sha256": "15fe3418d289bfe3c831f08fa24e878a476fbda50a1f41df2874edacfd09f169",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-16/2026-06-16T15:00:57.293906Z.json",
+      "last_modified": "2026-06-16T15:00:58+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-16T15:00:57.620000+00:00",
+      "sha256": "8b84a142fbb4c87f9659f739ea66dab1b86dca791686e73f09c67a9f9bacc19f",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-16/2026-06-16T17:08:08.834305Z.json",
+      "last_modified": "2026-06-16T17:08:10+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-16T17:08:09.161000+00:00",
+      "sha256": "9aa2ea0257a16d827d65c81ab6392895e0625bee325a8796aa151f7e71d294b5",
+      "size": 474
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-17/2026-06-17T15:00:55.383795Z.json",
+      "last_modified": "2026-06-17T15:00:56+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-17T15:00:55.731000+00:00",
+      "sha256": "cd1639b350091f19628516818cd3d4fa73d84f83971aef5c556ce40fae9d9130",
+      "size": 475
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-18/2026-06-18T15:00:56.032433Z.json",
+      "last_modified": "2026-06-18T15:00:57+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-18T15:00:56.403000+00:00",
+      "sha256": "b02e58a17e2adb59511b6a89ccb16e8af18cc7ea7ab7e7ff759c0114d2c15a37",
+      "size": 475
+    },
+    {
+      "key": "brk-tasty/ledger/2026-06-18/2026-06-18T19:09:23.846578Z.json",
+      "last_modified": "2026-06-18T19:09:25+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-18T19:09:24.166000+00:00",
+      "sha256": "6c905129f35393486e9a1681b49dc9b8c276a40fdc85c45f384524a6d0558f41",
+      "size": 562
+    },
+    {
+      "key": "brk-tasty/reconciled/2026-06-08/2026-06-08T03:13:13.042552Z.json",
+      "last_modified": "2026-06-08T03:13:14+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-06T03:13:13+00:00",
+      "sha256": "4a49d0b89a0eab0bfc3cf1f957c2a2f08ede6b3aea7112d4f46b4ef7af5f06f7",
+      "size": 21745
+    },
+    {
+      "key": "brk-tasty/reconciled/2026-06-12/2026-06-12T20:33:06.632385Z.json",
+      "last_modified": "2026-06-12T20:33:07+00:00",
+      "object_lock_mode": "GOVERNANCE",
+      "retain_until": "2033-06-10T20:33:06+00:00",
+      "sha256": "49da328bf0d56edf3666da9ed42cf63902c7c88027fbc5acb6816452755dd1d2",
+      "size": 22401
+    }
+  ],
+  "schema_version": "1.0"
+}
