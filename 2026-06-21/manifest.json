@@ -1,7 +1,7 @@
 {
   "bucket": "brk-tasty-production-ledger",
   "gap_days": 0,
-  "generated_at": "2026-06-21T21:20:54.353320+00:00",
+  "generated_at": "2026-06-21T23:30:32.131729+00:00",
   "prefixes": [
     "brk-tasty/ai-bifurcation/ledger/",
     "brk-tasty/ai-bifurcation/reconciled/",
